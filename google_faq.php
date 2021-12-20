@@ -102,10 +102,5 @@ $question_and_answer = [
 
     </footer>
 
-
-
-
-
-    
 </body>
 </html>

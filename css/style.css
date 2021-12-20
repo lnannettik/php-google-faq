@@ -40,7 +40,7 @@ header {
 .list-container ul li {
     font-size: 0.7rem;
     margin-right: 1rem;
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.3rem;
     font-weight: 500;
     border-bottom: 3px solid transparent;
 }
