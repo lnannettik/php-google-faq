@@ -41,8 +41,16 @@ header {
     font-size: 0.7rem;
     margin-right: 1rem;
     padding-bottom: 0.5rem;
-    font-weight: 600;
+    font-weight: 500;
+    border-bottom: 3px solid transparent;
 }
+
+.list-container ul li:hover {
+    color: #3367d6;
+    border-bottom: 3px solid #3367d6;
+}
+
+
 
 .list-container ul li :first-child {
     margin-left: 0px;
@@ -55,9 +63,15 @@ header {
     width: 70%;
     max-width: 1170px;
     margin: 0 auto;
-    padding: 7rem;
+    padding: 7rem 8rem;
 }
 
 .container p {
     font-size: 0.7rem;
+    line-height: 20px;
+}
+
+.container h3 {
+    font-weight: 500;
+    /* line-height: 32px; */
 }

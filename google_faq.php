@@ -44,9 +44,6 @@ $question_and_answer = [
 ?>
 
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
